@@ -6,6 +6,9 @@ proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 
+# My Info
+# 5 x MSI RX 470 8GB
+
 # ethOS Pool: ethosdistro.com/pool
 #
 # QUICK START GUIDE: ethosdistro.com/kb/#quick-start-guide
