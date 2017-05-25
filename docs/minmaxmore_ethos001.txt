@@ -4,7 +4,7 @@ proxywallet 0x4EBF7e6aDfa331FDb253daEcf3Ac293083ADb0a5
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 85
+#globalfan 85
 
 ### CUSTOMISATIONS
 
