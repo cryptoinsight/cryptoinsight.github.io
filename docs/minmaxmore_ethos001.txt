@@ -6,6 +6,21 @@ proxypool2 pool-eu.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 
+### CUSTOMISATIONS
+
+## Global
+
+globalcore 1180
+globalmem 2150
+globalfan 85
+globalpowertune 7
+
+## Per card config
+
+# cor c94e13 1180 1180 1180 1180 1180
+# mem c94e13 2150 2150 2150 2150 2150
+# pwr c94e13 7 7 7 7 7
+
 # My Info
 # 5 x MSI RX 470 8GB
 
