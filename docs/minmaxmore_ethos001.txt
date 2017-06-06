@@ -10,10 +10,13 @@ globalfan 85
 
 ## Global
 
-# globalcore 1180
-# globalmem 2150
-# globalfan 85
-# globalpowertune 7
+# 2017-06-06 112.3 MH/s
+
+#globalfan 85
+#globalmem 2000
+#globalpowertune 3
+globalminer claymore
+
 
 ## Per card config
 
