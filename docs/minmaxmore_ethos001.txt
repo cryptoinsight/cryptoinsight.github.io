@@ -10,7 +10,7 @@ globalfan 85
 
 ## Global
 
-# 2017-06-06 112.3 MH/s
+# 2017-11-08 112.1 MH/s
 
 #globalfan 85
 globalmem 1850
