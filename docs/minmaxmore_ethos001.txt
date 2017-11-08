@@ -13,9 +13,14 @@ globalfan 85
 # 2017-06-06 112.3 MH/s
 
 #globalfan 85
-#globalmem 2000
-#globalpowertune 3
-globalminer claymore
+globalmem 1850
+globalpowertune 7
+globalminer ethminer
+
+
+# cor c94e13 1180 1180 1180 1180 1180
+# mem c94e13 2150 2150 2150 2150 2150
+# pwr c94e13 7 7 7 7 7
 
 
 ## Per card config
