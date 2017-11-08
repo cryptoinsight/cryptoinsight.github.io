@@ -12,9 +12,9 @@ globalfan 85
 
 # 2017-06-06 112.3 MH/s
 
-#globalfan 85
-#globalmem 2000
-#globalpowertune 3
+globalfan 85
+globalmem 2000
+globalpowertune 3
 globalminer claymore
 
 
